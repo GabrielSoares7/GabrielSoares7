@@ -2,7 +2,7 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSoares7&show_icons=true&theme=tokyonight)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSoares7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
