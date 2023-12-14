@@ -20,3 +20,4 @@
 
 - [Portfólio](https://gabrielsoares7.netlify.app/)<br>
 - [LinkedIn](https://www.linkedin.com/in/gabrielsoares-ti/)<br>
+- [Email: gabrielsoares7.ti@gmail.com]
